@@ -4,12 +4,12 @@ Resolução do trabalho de APSOO sobre a aplicação hibrída (com elementos des
 
 Como rodar a aplicação:
 
+1. Baixe os requirements:
+(no terminal escreva)
+--> pip install -r requirements.txt
 
-1. Entrar no diretório Projeto:
---> cd Projeto
-
-2. Rode a aplicação:
---> python run.py
+2. Rode a aplicação: 
+--> python Projeto/run.py
 
 3. Aplicação aberta! 
  
